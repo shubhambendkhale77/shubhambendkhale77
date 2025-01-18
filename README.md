@@ -1,14 +1,14 @@
 [![An image of @shubham_bendkhale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubham_bendkhale)](https://holopin.io/@shubham_bendkhale)
 
-<h1 align="center">Hi 👋, I'm Shubham Bendkhale</h1>
-
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>, I'm Shubham Bendkhale
+</h1>
 
 <h3 align="center">A Passionate Full-Stack Web Developer who loves building web applications</h3>
 
 <div align="center">
   
 <a href="https://linkedin.com/in/shubham-bendkhale" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:shubhambendkhale77@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://github.com/shubhambendkhale77" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-
 
 </div>
 
