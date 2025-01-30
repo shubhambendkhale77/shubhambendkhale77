@@ -62,8 +62,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhambendkhale77&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhambendkhale77&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</div>
+</div> -->
 
 ---
