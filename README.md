@@ -61,10 +61,7 @@
 
 <div align="center" height="165">
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhambendkhale77&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=4" alt="Most Used Languages"/>
-
 </div>
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=shubhambendkhale77&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </div>
-
----
